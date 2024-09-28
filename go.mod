@@ -1,1 +1,1 @@
-module testModule
+module github.com/uran1a/mymath
